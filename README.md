@@ -1,6 +1,6 @@
-# Advanced Text Summarizer Web App
+# SummBench -  Advanced Text Summarizer Web App
 
-A comprehensive text summarization web application that uses multiple techniques and models to generate summaries, with scoring and comparison capabilities.
+Summbench is a comprehensive text summarization web application that uses multiple techniques and models to generate summaries, with scoring and comparison capabilities.
 
 ## 🚀 Quick Start (Streamlit - Recommended)
 
